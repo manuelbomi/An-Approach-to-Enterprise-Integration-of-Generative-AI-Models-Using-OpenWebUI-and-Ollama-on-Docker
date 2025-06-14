@@ -1,8 +1,5 @@
 # An Approach to Enterprise Integration of Generative-AI Models Using OpenWebUI and Ollama on Docker
 
-# Graphically Architecting MSSQL Server Relational Database for E-Commerce Application
-
-
 
 
 ### **OVERVIEW**
