@@ -8,6 +8,13 @@ Reliably architecting databases is very crucial for designing efficient data ana
 > [!NOTE]
 > In some companies, the duties or tasks 
 ---
+Ollama supports several state of the art Gen AI models. Interested readers can check the entire repertoire at the Ollama model homepage _(https://ollama.com/search)_
+Some eamples are shown in the two figures below:
+---
+![Image](https://github.com/user-attachments/assets/893d66fb-0078-4b99-8295-08958a4030b3)
+---
+![Image](https://github.com/user-attachments/assets/7b7436e9-6a57-4432-8713-12a77288ba23)
+---
 
 ### **Benefits of Using Lucidchart for Entity Relationship Diagrams**
 For very complex systems, due to system 
@@ -54,8 +61,7 @@ to install Ollama from the command line
 ![Image](https://github.com/user-attachments/assets/54374cf7-3e6d-4a3b-951c-40f9f5b6113a)
 
 ---
-![Image](https://github.com/user-attachments/assets/893d66fb-0078-4b99-8295-08958a4030b3)
-![Image](https://github.com/user-attachments/assets/7b7436e9-6a57-4432-8713-12a77288ba23)
+
 ![Image](https://github.com/user-attachments/assets/f572f483-9536-4506-ab48-9b0a6ee67593)
 ![Image](https://github.com/user-attachments/assets/5993eece-7179-4e55-b214-67a5c5d8d310)
 ![Image](https://github.com/user-attachments/assets/9b99ba31-71cf-41b0-a106-de30b07bea5c)
