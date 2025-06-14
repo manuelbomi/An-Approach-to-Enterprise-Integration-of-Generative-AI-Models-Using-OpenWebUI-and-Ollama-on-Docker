@@ -42,10 +42,12 @@ Navigate to Ollama homepage:
 
 ---
 Select installation method for your target OS. 
+---
 For Linux, use:
+---
 
 ```ruby
-'curl -fsSL https://ollama.com/install.sh | sh
+curl -fsSL https://ollama.com/install.sh | sh
 ```
 to install Ollama from the command line
 ---
