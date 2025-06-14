@@ -1,6 +1,20 @@
 # An Approach to Enterprise Integration of Generative-AI Models Using OpenWebUI and Ollama on Docker
 
-Cost implication of using Gen AI models
+Some of the cost associated with using generative AI models in the enterprise settings include: 
+
+1. Data Acquisition and Processing: 
+High-quality data is essential for training effective AI models, and acquiring, cleaning, and labeling this data, especially for specialized industries, can be time-consuming and costly.
+Data restrictions in certain sectors like healthcare or finance can further increase costs. 
+2. Hardware Requirements: AI needs specialized, expensive hardware like GPUs, which can cost tens of thousands of dollars per unit, and multiple units are often required.
+3. Labor Costs: Skilled AI professionals command high salaries, often exceeding $100,000 annually per employee, and the limited supply of such talent drives up wages.
+4. Training and Maintenance: Training AI models is computationally intensive and can cost millions of dollars. Ongoing maintenance, updates, and retraining also contribute to continuous costs.
+5. Integration and Testing: Integrating AI into existing workflows and testing/optimizing systems is complex and resource-intensive, potentially taking months and adding costs.
+6. Operating Costs: AI systems require significant computing power, leading to high ongoing operational expenses, potentially hundreds of thousands of dollars monthly for server and energy costs.
+7. Model Selection and Licensing: Costs vary based on the model approach, with commercial APIs having usage-based fees and open-source models having lower licensing but higher deployment costs.
+8. Vendor Lock-in: Heavy investment in one vendor's models can lead to lock-in, making switching difficult and potentially resulting in higher costs if the vendor increases prices. 
+
+
+
 ---
 ![Image](https://github.com/user-attachments/assets/afad8906-5c29-4945-863f-a0fab73a9a6a)
 
