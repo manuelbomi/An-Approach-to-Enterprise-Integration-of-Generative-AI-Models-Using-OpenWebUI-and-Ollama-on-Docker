@@ -32,6 +32,36 @@ Here, we have shown the steps needed to efficiently architect an e-commerce data
 ---
 
 
+
+
+![Image](https://github.com/user-attachments/assets/bc563b71-68f1-4010-bfba-0ae125cbfacb)
+![Image](https://github.com/user-attachments/assets/861f3af3-e7a9-4c2a-add3-f8ff36dd09fe)
+![Image](https://github.com/user-attachments/assets/54374cf7-3e6d-4a3b-951c-40f9f5b6113a)
+![Image](https://github.com/user-attachments/assets/893d66fb-0078-4b99-8295-08958a4030b3)
+![Image](https://github.com/user-attachments/assets/7b7436e9-6a57-4432-8713-12a77288ba23)
+![Image](https://github.com/user-attachments/assets/f572f483-9536-4506-ab48-9b0a6ee67593)
+![Image](https://github.com/user-attachments/assets/5993eece-7179-4e55-b214-67a5c5d8d310)
+![Image](https://github.com/user-attachments/assets/9b99ba31-71cf-41b0-a106-de30b07bea5c)
+![Image](https://github.com/user-attachments/assets/670a53f6-e467-40ef-8263-200ce8191121)
+![Image](https://github.com/user-attachments/assets/b8f839f9-0fdd-4695-b356-a76eeb1aba84)
+![Image](https://github.com/user-attachments/assets/2fe77a36-828f-4d9f-bcc0-6a1fa46b3b61)
+![Image](https://github.com/user-attachments/assets/90057750-bc84-4b93-975d-253acfee307c)
+![Image](https://github.com/user-attachments/assets/a5648c09-cf19-48d8-b01b-9a6f37825816)
+![Image](https://github.com/user-attachments/assets/72b96526-048d-42a1-b15a-fc797548ef3b)
+![Image](https://github.com/user-attachments/assets/ad7024ef-5627-48ce-b410-382220bac79c)
+![Image](https://github.com/user-attachments/assets/4c76ceea-965a-4644-a3c0-be881e813088)
+![Image](https://github.com/user-attachments/assets/1dc6655b-f8b9-4efe-9f45-e54f773452cf)
+![Image](https://github.com/user-attachments/assets/abc7526f-73cc-415a-89d7-9b040f58d950)
+![Image](https://github.com/user-attachments/assets/7b3d6198-2901-4a88-afb0-e13eb9b5fa62)
+![Image](https://github.com/user-attachments/assets/66c60695-5610-4bef-9241-a71396248793)
+![Image](https://github.com/user-attachments/assets/c21c9e3d-d558-4f76-b154-b87581829a58)
+![Image](https://github.com/user-attachments/assets/e268fba1-ca7c-4215-84bb-043752206171)
+![Image](https://github.com/user-attachments/assets/cd020526-aeb7-4773-8e2d-60b2927d831d)
+
+
+
+
+
 Step 1: Register free version LucidChart
 ---
 ![Image](https://github.com/user-attachments/assets/0d68a670-3833-448f-ba65-add57af15568)
