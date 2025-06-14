@@ -6,10 +6,9 @@
 Reliably architecting databases is very crucial for designing efficient data analytics systems. After selecting the software and  
 
 > [!NOTE]
-> In some companies, the duties or tasks 
----
-Ollama supports several state of the art Gen AI models. Interested readers can check the entire repertoire at the Ollama model homepage _(https://ollama.com/search)_
+> Ollama supports several state of the art Gen AI models. Interested readers can check the entire repertoire at the Ollama model homepage _(https://ollama.com/search)_.
 Some eamples are shown in the two figures below:
+
 ---
 ![Image](https://github.com/user-attachments/assets/893d66fb-0078-4b99-8295-08958a4030b3)
 ---
