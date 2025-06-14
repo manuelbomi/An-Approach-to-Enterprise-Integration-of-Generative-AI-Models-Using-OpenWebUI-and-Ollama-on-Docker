@@ -34,6 +34,7 @@ Cost implication of using Gen AI models
 ---
 ![Image](https://github.com/user-attachments/assets/afad8906-5c29-4945-863f-a0fab73a9a6a)
 
+_Source: https://tomtunguz.com/gm-saas/?utm_source=tldrai_
 ---
 Navigate to Ollama homepage: 
 ---
