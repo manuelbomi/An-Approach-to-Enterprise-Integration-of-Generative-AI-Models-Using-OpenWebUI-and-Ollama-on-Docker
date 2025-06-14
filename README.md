@@ -32,7 +32,8 @@ Here, we have shown the steps needed to efficiently architect an e-commerce data
 ---
 Cost implication of using Gen AI models
 ---
-![Image](https://github.com/user-attachments/assets/bc563b71-68f1-4010-bfba-0ae125cbfacb)
+![Image](https://github.com/user-attachments/assets/afad8906-5c29-4945-863f-a0fab73a9a6a)
+
 ---
 Navigate to Ollama homepage: 
 ---
