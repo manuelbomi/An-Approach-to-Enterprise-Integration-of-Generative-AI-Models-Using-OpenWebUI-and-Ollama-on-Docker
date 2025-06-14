@@ -41,8 +41,17 @@ Navigate to Ollama homepage:
 ![Image](https://github.com/user-attachments/assets/861f3af3-e7a9-4c2a-add3-f8ff36dd09fe)
 
 ---
+Select installation method for your target OS. 
+For Linux, use:
 
+```ruby
+'curl -fsSL https://ollama.com/install.sh | sh
+```
+to install Ollama from the command line
+---
 ![Image](https://github.com/user-attachments/assets/54374cf7-3e6d-4a3b-951c-40f9f5b6113a)
+
+---
 ![Image](https://github.com/user-attachments/assets/893d66fb-0078-4b99-8295-08958a4030b3)
 ![Image](https://github.com/user-attachments/assets/7b7436e9-6a57-4432-8713-12a77288ba23)
 ![Image](https://github.com/user-attachments/assets/f572f483-9536-4506-ab48-9b0a6ee67593)
