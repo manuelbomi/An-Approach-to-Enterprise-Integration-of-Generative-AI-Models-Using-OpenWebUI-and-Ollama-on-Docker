@@ -30,11 +30,11 @@ We shall then show how to use Lucidchart to translate the e-commerce ERD to a da
 Here, we have shown the steps needed to efficiently architect an e-commerce database for MSSQL Server database.
 >
 ---
-
-
-
-
+Cost implication of using Gen AI models
+---
 ![Image](https://github.com/user-attachments/assets/bc563b71-68f1-4010-bfba-0ae125cbfacb)
+---
+
 ![Image](https://github.com/user-attachments/assets/861f3af3-e7a9-4c2a-add3-f8ff36dd09fe)
 ![Image](https://github.com/user-attachments/assets/54374cf7-3e6d-4a3b-951c-40f9f5b6113a)
 ![Image](https://github.com/user-attachments/assets/893d66fb-0078-4b99-8295-08958a4030b3)
@@ -62,11 +62,7 @@ Here, we have shown the steps needed to efficiently architect an e-commerce data
 
 
 
-Step 1: Register free version LucidChart
----
-![Image](https://github.com/user-attachments/assets/0d68a670-3833-448f-ba65-add57af15568)
 
----
 
 
 > [!TIP]
