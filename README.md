@@ -96,7 +96,7 @@ ollama run llama3.2:latest
 Step 5: Test-run the installed llama3.2 model
 ---
 
-The query used to test the installed llama3.2 model is: "What are some interesting facts about the Benin Kingdom?"
+The query used to test the installed llama3.2 model is: "What are some interesting facts about the Benin empire?"
 
 ![Image](https://github.com/user-attachments/assets/9b99ba31-71cf-41b0-a106-de30b07bea5c)
 ---
@@ -109,19 +109,21 @@ ollama run deepseek-r1:latest
 Test-run the installed deepseek model
 ---
 You can decide to use the same query as the one used to test the llama3.2 model: "What are some intersting facts about the Benin empire?"
+
 ![Image](https://github.com/user-attachments/assets/b8f839f9-0fdd-4695-b356-a76eeb1aba84)
 ---
 ![Image](https://github.com/user-attachments/assets/2fe77a36-828f-4d9f-bcc0-6a1fa46b3b61)
 ---
 ![Image](https://github.com/user-attachments/assets/90057750-bc84-4b93-975d-253acfee307c)
 ---
-Step 7: Install anpther model. Install gemma3. Use the code: 
+Step 7: Install another model. Install gemma3. Use the code: 
 ---
 ```ruby
 ollama run gemma3:latest
 ```
 ---
 ![Image](https://github.com/user-attachments/assets/a5648c09-cf19-48d8-b01b-9a6f37825816)
+---
 ![Image](https://github.com/user-attachments/assets/72b96526-048d-42a1-b15a-fc797548ef3b)
 ![Image](https://github.com/user-attachments/assets/ad7024ef-5627-48ce-b410-382220bac79c)
 ![Image](https://github.com/user-attachments/assets/4c76ceea-965a-4644-a3c0-be881e813088)
