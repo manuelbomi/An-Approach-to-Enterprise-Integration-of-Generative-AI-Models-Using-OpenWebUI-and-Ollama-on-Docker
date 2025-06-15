@@ -55,7 +55,7 @@ Ollama is a tool that allows users to run large language models (LLMs) directly 
 
 ![Image](https://github.com/user-attachments/assets/861f3af3-e7a9-4c2a-add3-f8ff36dd09fe)
 
-On Ollama's model page, users can obtain details regarding currently available and Ollama-supported GenAI models. Some examples are shown on the figures below. More are available on Ollama's homepage.
+On Ollama's model page, users can obtain details regarding currently available and Ollama-supported GenAI models. Some examples are shown on the figures below. More are available on Ollama's homepage (https://ollama.com/).
 
 Step 2: Check available models on Ollama homepage
 ---
