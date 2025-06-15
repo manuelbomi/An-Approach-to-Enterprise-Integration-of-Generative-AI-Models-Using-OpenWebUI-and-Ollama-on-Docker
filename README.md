@@ -68,9 +68,16 @@ to install Ollama from the command line. Example is shown below
 ![Image](https://github.com/user-attachments/assets/54374cf7-3e6d-4a3b-951c-40f9f5b6113a)
 
 ---
-
 ![Image](https://github.com/user-attachments/assets/f572f483-9536-4506-ab48-9b0a6ee67593)
+---
 ![Image](https://github.com/user-attachments/assets/5993eece-7179-4e55-b214-67a5c5d8d310)
+---
+Use the installed ollama to download and install your desired model. For example, to install llama3.2, use the command:
+---
+```ruby
+ollama run llama3.2:latest
+```
+---
 ![Image](https://github.com/user-attachments/assets/9b99ba31-71cf-41b0-a106-de30b07bea5c)
 ![Image](https://github.com/user-attachments/assets/670a53f6-e467-40ef-8263-200ce8191121)
 ![Image](https://github.com/user-attachments/assets/b8f839f9-0fdd-4695-b356-a76eeb1aba84)
