@@ -152,6 +152,8 @@ Navigate to the OpenWebUI Github page and copy the code that can be used to inst
 ---
 ![Image](https://github.com/user-attachments/assets/4c76ceea-965a-4644-a3c0-be881e813088)
 ---
+Step 9: Read the instructions and install OpenWebUI on your Linux Docker. For Windows and Mac OS, the instructions for installation are also available on OpenWebUI Github page. 
+---
 ![Image](https://github.com/user-attachments/assets/1dc6655b-f8b9-4efe-9f45-e54f773452cf)
 ---
 ![Image](https://github.com/user-attachments/assets/abc7526f-73cc-415a-89d7-9b040f58d950)
