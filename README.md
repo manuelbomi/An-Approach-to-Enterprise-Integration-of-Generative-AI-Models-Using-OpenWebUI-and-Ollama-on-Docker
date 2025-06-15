@@ -93,10 +93,17 @@ ollama run llama3.2:latest
 ---
 ![Image](https://github.com/user-attachments/assets/5993eece-7179-4e55-b214-67a5c5d8d310)
 ---
-
+Step 5: Test-run the installed llam3.2 model
 ---
+The query used to test the installed llama3.2 model is: "WHat are some interesting facts about the Benin Kingdom?"
 ![Image](https://github.com/user-attachments/assets/9b99ba31-71cf-41b0-a106-de30b07bea5c)
-![Image](https://github.com/user-attachments/assets/670a53f6-e467-40ef-8263-200ce8191121)
+---
+Step 6: Install other model, e.g deepseek. To install deepseel, use the code
+---
+```ruby
+ollama run deepseek-r1:latest
+```
+---
 ![Image](https://github.com/user-attachments/assets/b8f839f9-0fdd-4695-b356-a76eeb1aba84)
 ![Image](https://github.com/user-attachments/assets/2fe77a36-828f-4d9f-bcc0-6a1fa46b3b61)
 ![Image](https://github.com/user-attachments/assets/90057750-bc84-4b93-975d-253acfee307c)
