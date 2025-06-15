@@ -30,14 +30,17 @@ Heavy investment in a particular vendor's models can lead to being locked-in, ma
 ---
 > 
 ## Cost Effective Consideration for Enterprise Generative AI Models' Integration 
-### To reduce cost of GenAI model integration and usage in enterprise settings, we suggest: 
+### To reduce cost of GenAI model integration and to promote wider GenAI adoption and models' diversity in enterprise settings, we suggest: 
 ##### (i)    The use of models with minimal intgeration footprints such as using models with minimal memory or GPU requirements. 
 ##### (ii)   For common, non-specialized applications, We suggest using verified open-source models with very low or near-zero enterprise licensing fees.
 ##### (iii)  For effective securance of enterprise data and GenAI workflow, we suggest the use of well-known and proven GenAI models for on-prem deployments. The same consideration can be given to  cloud-based deployments and integration.
+##### (iv) To prevent vendor lock-in and to reduce enterprise integration cost, we argue that it is better to approach enterprise adoption of diverse open-source models from different vendors. If enterprise model usage must necessarily entail the payment of licensing fees, then the enterprise should consider robust, tested and highly reliable models that have lower licensing fees. 
 ---
 > [!IMPORTANT]
-> ##### In this discourse, we have showm a method by which some GenAI models (such as: llama3.2, deepseek-r1 and gemma3 etc) can be installed on-prem using Docker. In our approach, the user may completely use the docker-installed GenAI models online or offline without the Internet.
-> ##### Also, users or the enterprise do not need to pay token or API access charges since the method shown here does not use remote vendor-based APIs such as using OpenAIs ChatGPT UI.  Ollama models' suite UI is used along with Docker to illustrate our method.  OpenWebUI is used to provide a user-friendly UI for the installed GenAI models.
+> ##### In this discourse, we have showm a method by which some GenAI models (such as: llama3.2, deepseek-r1 and gemma3 etc) can be installed on-prem using Docker. In our approach, the user may use the docker-installed GenAI models online or offline without the Internet.
+> ##### Also, users or the enterprise do not need to pay token or API access charges since the method shown here does not use remote vendor-based API access points such as using OpenAIs ChatGPT UI.  In our example shown here, Ollama models' suite UI is used along with Docker to illustrate our method.  OpenWebUI is used to provide a user-friendly UI for the installed GenAI models.
+> ##### In our approach here, widely known models with low memory footprint and low GPU (or none-GPU) usage are considered.
+> ##### We show how the installed models performed with generic queries and coding tasks. Outputs of the models under basic querying could be obtained from this repository. Outputs of their coding tasks can also be obtained from some of the inforgraphs below. We did not advocate for the usage of one model over the other in this discourse since usage requirements and/or needs could be different in each enterprise settings.
 
 #### Our approach of models' installion on Linux(Ubuntu) and Docker is illustrated via the infographs below:
 ---
