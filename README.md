@@ -62,7 +62,6 @@ Step 2: Check available models on Ollama homepage
 ![Image](https://github.com/user-attachments/assets/893d66fb-0078-4b99-8295-08958a4030b3)
 ---
 
-
 ![Image](https://github.com/user-attachments/assets/7b7436e9-6a57-4432-8713-12a77288ba23)
 
 ---
@@ -81,6 +80,9 @@ to install Ollama from the command line. Example is shown below
 ![Image](https://github.com/user-attachments/assets/54374cf7-3e6d-4a3b-951c-40f9f5b6113a)
 
 ---
+Note that Ollama can work with the target device's CPU if GPU is not detected on the device
+---
+
 ![Image](https://github.com/user-attachments/assets/f572f483-9536-4506-ab48-9b0a6ee67593)
 ---
 Use the installed ollama to download and install your desired model. For example, to install llama3.2, use the command:
