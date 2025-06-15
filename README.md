@@ -66,7 +66,7 @@ Step 2: Check available models on Ollama homepage
 ![Image](https://github.com/user-attachments/assets/7b7436e9-6a57-4432-8713-12a77288ba23)
 
 ---
-Step 3: On Ollama's homepage, select installation method for your target OS. 
+Step 3: On Ollama's homepage, select the installation method for your target OS. 
 ---
 
 For Linux, use the command:
