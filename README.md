@@ -3,9 +3,9 @@
 In enterprise settings, costs associated with using generative AI (GenAI) models can scale up with the number of people and processes that are using the models across the enterprise. Some of the cost associated with using GenAI models in enterprise settings include: 
 
 ### Data Acquisition and Processing Costs: 
-High-quality data is essential as inputs to the model if methods of model's performance improvement such as exposing the model to enterprise dataset through Retrieval Augmentation Generation (RAG) are considered. Cost of obtaining high quality data could be prohibitive. Data restrictions in certain sectors like healthcare, non-civil technologies and finance can further increase costs. 
+High-quality data is essential as inputs to the model if methods of model's performance improvement (such as exposing the model to enterprise dataset through Retrieval Augmentation Generation (RAG)) are considered. Cost of obtaining high quality data could be prohibitive. Data restrictions in certain sectors like healthcare, non-civil technologies and finance can further increase costs. 
 ### Hardware Requirements: 
-If models are acquired to be used on-prem, and if methods of model's performance improvement such as exposing the model to enterprise dataset through RAG are used, then, the cost of the hardware needed must be considered.  AI needs specialized, expensive hardware like GPUs, which can cost tens of thousands of dollars per unit, and multiple units are often required for enterprise-scale deployments.
+If models are acquired to be used on-prem, and if methods of model's performance improvement methods (such as exposing the model to enterprise dataset through RAG) are used, then, the cost of the hardware needed must be considered.  Most enterprise AI applications often needs specialized, expensive hardware like GPUs, which can cost tens of thousands of dollars per unit, and multiple units are often required for enterprise-scale deployments.
 ### Labor Costs: 
 Skilled AI professionals command high salaries, and the limited supply of such talent drives up wages.
 ### Integration and Testing: 
