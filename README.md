@@ -66,10 +66,11 @@ Step 2: Check available models on Ollama homepage
 ![Image](https://github.com/user-attachments/assets/7b7436e9-6a57-4432-8713-12a77288ba23)
 
 ---
-Select installation method for your target OS. 
+Step 3: On Ollama's homepage (https://ollama.com/), select installation method for your target OS. 
 ---
+
 For Linux, use the command:
----
+
 
 ```ruby
 curl -fsSL https://ollama.com/install.sh | sh
