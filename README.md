@@ -23,10 +23,10 @@ _Source: https://tomtunguz.com/gm-saas/?utm_source=tldrai_
 ---
 > 
 ## Cost Effective Consideration for Enterprise Generative AI Models' Integration 
-### For enterprise integration, based on enterprise applications or needs, to reduce Gen AI models usage cost we suggest: 
+### To reduce cost of GenAI model integration and usage in enterprise settings, we suggest: 
 ##### (i)    The use of models with minimal intgeration footprints such as using models with minimal memory or GPU requirements. 
 ##### (ii)   For common, non-specialized applications, We suggest using verified open-source models with very low or near-zero enterprise licensing fees.
-##### (iii)  For effective securance of enterprise data and GenAI workflow, we suggest the use of verified and highly secured method of integration if on-prem integration is considered. The same consideration can be given to  cloud-based integration.
+##### (iii)  For effective securance of enterprise data and GenAI workflow, we suggest the use of well-known and proven GenAI models for on-prem deployments. The same consideration can be given to  cloud-based deployments and integration.
 
 ---
 > [!IMPORTANT]
