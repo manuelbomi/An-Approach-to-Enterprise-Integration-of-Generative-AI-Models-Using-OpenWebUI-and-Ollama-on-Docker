@@ -120,7 +120,7 @@ You can decide to use the same query as the one used to test the llama3.2 model:
 ---
 ![Image](https://github.com/user-attachments/assets/90057750-bc84-4b93-975d-253acfee307c)
 ---
-Step 7: Install another model. Install gemma3. Use the code: 
+Step 7: Install another model if you wish. To install gemma3. Use the code: 
 ---
 ```ruby
 ollama run gemma3:latest
@@ -139,6 +139,10 @@ ollama list
 ```
 ---
 ![Image](https://github.com/user-attachments/assets/ad7024ef-5627-48ce-b410-382220bac79c)
+---
+Step 8: Install OpenWebUI on Docker
+---
+Open WebUI is an extensible, feature-rich, and user-friendly self-hosted AI platform designed to operate entirely offline. It supports various LLM runners like Ollama and OpenAI-compatible APIs, with built-in inference engine for RAG, making it a powerful AI deployment solution
 ![Image](https://github.com/user-attachments/assets/4c76ceea-965a-4644-a3c0-be881e813088)
 ![Image](https://github.com/user-attachments/assets/1dc6655b-f8b9-4efe-9f45-e54f773452cf)
 ![Image](https://github.com/user-attachments/assets/abc7526f-73cc-415a-89d7-9b040f58d950)
