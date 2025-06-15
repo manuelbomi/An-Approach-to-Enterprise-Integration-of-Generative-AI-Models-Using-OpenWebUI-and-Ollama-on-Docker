@@ -131,6 +131,9 @@ ollama run gemma3:latest
 Test-run the installed model
 ---
 ![Image](https://github.com/user-attachments/assets/72b96526-048d-42a1-b15a-fc797548ef3b)
+
+Responses of each installed model to the query: "What are some interesting facts about the Benin Kingdom" can be found as attachments on this Github repository. Interested reader can notice that each model responses are quite different. Some model ask follow-up questions, which makes them fully conversational. Some other model's response are very brief while some other ones are quite extensive. 
+
 ---
 To see a list of all available models on Ollama, use:
 ---
