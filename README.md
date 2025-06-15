@@ -100,7 +100,7 @@ The query used to test the installed llama3.2 model is: "What are some interesti
 
 ![Image](https://github.com/user-attachments/assets/9b99ba31-71cf-41b0-a106-de30b07bea5c)
 ---
-Step 6: Install other model, e.g deepseek. To install deepseel, use the code
+Step 6: Install other model, e.g deepseek. To install deepseek, use the code
 ---
 ```ruby
 ollama run deepseek-r1:latest
