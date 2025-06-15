@@ -104,7 +104,7 @@ The query used to test the installed llama3.2 model is: "What are some interesti
 
 ![Image](https://github.com/user-attachments/assets/9b99ba31-71cf-41b0-a106-de30b07bea5c)
 ---
-Step 6: Install other model, e.g deepseek. To install deepseek, use the code
+Step 6: Install other model, e.g deepseek. To install deepseek, use the code:
 ---
 ```ruby
 ollama run deepseek-r1:latest
@@ -156,6 +156,15 @@ Step 9: Read the instructions and install OpenWebUI on your Linux Docker. For Wi
 ---
 ![Image](https://github.com/user-attachments/assets/1dc6655b-f8b9-4efe-9f45-e54f773452cf)
 ---
+Use
+```ruby
+docker ps -a
+```
+
+to see teh list of all containers available on your Docker
+
+---
+
 ![Image](https://github.com/user-attachments/assets/abc7526f-73cc-415a-89d7-9b040f58d950)
 ---
 ![Image](https://github.com/user-attachments/assets/7b3d6198-2901-4a88-afb0-e13eb9b5fa62)
