@@ -161,11 +161,13 @@ Use
 docker ps -a
 ```
 
-to see teh list of all containers available on your Docker
+to see the list of all containers available on your Docker
 
 ---
 
 ![Image](https://github.com/user-attachments/assets/abc7526f-73cc-415a-89d7-9b040f58d950)
+---
+Step 10: Navigate to the page at which OpenWebUI is runing on your device. Configure the Admin details and login to OpenWebUI
 ---
 ![Image](https://github.com/user-attachments/assets/7b3d6198-2901-4a88-afb0-e13eb9b5fa62)
 ---
