@@ -38,7 +38,9 @@ Heavy investment in a particular vendor's models can lead to being locked-in, ma
 ##### (i)    The use of models with minimal intgeration footprints such as using models with minimal memory or GPU requirements. 
 ##### (ii)   For common, non-specialized applications, We suggest using verified open-source models with very low or near-zero enterprise licensing fees.
 ##### (iii)  For effective securance of enterprise data and GenAI workflow, we suggest the use of well-known and proven GenAI models for on-prem deployments. The same consideration can be given to  cloud-based deployments and integration.
-##### (iv) To prevent vendor lock-in and to reduce enterprise integration cost, we argue that it is better to consider enterprise adoption of diverse open-source models from different vendors. If enterprise model usage must necessarily entail the payment of licensing fees, then the enterprise should consider only robust, tested, highly reliable, and possibly multi-functional models that have lower licensing fees. 
+##### (iv) To prevent vendor lock-in and to reduce enterprise integration cost, we argue that it is better to consider enterprise adoption of diverse open-source models from different vendors. 
+
+If enterprise model usage must necessarily entail the payment of licensing fees, then the enterprise should consider only robust, tested, highly reliable, and possibly multi-functional models that have lower licensing fees. 
 ---
 > [!IMPORTANT]
 > ### In this discourse, we have showm a method by which some GenAI models (such as: llama3.2, deepseek-r1 and gemma3 etc) can be installed <ins>on-prem</ins> using Docker. The same approach could be adopted for <ins>cloud-based</ins> workflow deployments such as when using Linux on an EC2 instance on AWS.
