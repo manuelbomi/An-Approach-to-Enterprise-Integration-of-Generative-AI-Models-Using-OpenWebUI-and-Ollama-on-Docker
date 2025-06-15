@@ -24,29 +24,24 @@ _Source: https://tomtunguz.com/gm-saas/?utm_source=tldrai_
 ---
 > 
 ## Cost Effective Consideration for Enterprise Generative AI Models' Integration 
-For enterprise integration, based on enterprise applications or needs, to reduce Gen AI models usage cost we suggest: 
-(i) The use of models with minimal intgeration footprints such as using models with minimal memory or GPU requirements. 
-(ii) For common, non-specialized applications, We suggest using verified open-source models with very low or near-zero enterprise licensing fees
-(iii) For effective securance of enterprise data, we suggest the use of verified and highly secured method of integration if on-prem integration is considered. The same consideration can be given to  
+### For enterprise integration, based on enterprise applications or needs, to reduce Gen AI models usage cost we suggest: 
+##### (i)    The use of models with minimal intgeration footprints such as using models with minimal memory or GPU requirements. 
+##### (ii)   For common, non-specialized applications, We suggest using verified open-source models with very low or near-zero enterprise licensing fees
+##### (iii)  For effective securance of enterprise data and GenAI workflow, we suggest the use of verified and highly secured method of integration if on-prem integration is considered. The same consideration can be given to  cloud-based integration.
 
 ---
+> [!NOTE]
+> In this discourse, we have showm a method by which some GenAI models (llama3.2, deepseek-r1 and gemma3) can be installed on Docker. In our approach, the user may completely use the installed GenAI models online or offline. Also, users or the enterprise do not need to pay token or API access charges since the method shown here does not use remote vendor-based APIs such as using OpenAIs ChatGPT UI.  
 
 
 
----
-![Image](https://github.com/user-attachments/assets/afad8906-5c29-4945-863f-a0fab73a9a6a)
-
-_Source: https://tomtunguz.com/gm-saas/?utm_source=tldrai_
----
 
 
 
 ### **OVERVIEW**
 Reliably architecting databases is very crucial for designing efficient data analytics systems. After selecting the software and  
 
-> [!NOTE]
-> Ollama supports several state of the art Gen AI models. Interested readers can check the entire repertoire at the Ollama model homepage _(https://ollama.com/search)_.
-Some eamples are shown in the two figures below:
+
 
 ---
 ![Image](https://github.com/user-attachments/assets/893d66fb-0078-4b99-8295-08958a4030b3)
