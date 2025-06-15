@@ -17,7 +17,7 @@ _Source: https://tomtunguz.com/gm-saas/?utm_source=tldrai_
 ---
 
 7. Model Selection and Licensing: Costs may vary based on the model selection approach, with commercial APIs having usage-based fees and open-source models having lower licensing but may have higher deployment costs.
-8. Vendor Lock-in: Heavy investment in one vendor's models can lead to lock-in, making switching vendor/model difficult and potentially resulting in higher costs if the vendor increases prices.
+8. Vendor Lock-in: Heavy investment in one vendor's models can lead to lock-in, making switching vendor/model difficult and potentially resulting in higher costs if the vendor increases price.
    
 
 ---
