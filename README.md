@@ -27,11 +27,11 @@ _Source: https://tomtunguz.com/gm-saas/?utm_source=tldrai_
 ##### (i)    The use of models with minimal intgeration footprints such as using models with minimal memory or GPU requirements. 
 ##### (ii)   For common, non-specialized applications, We suggest using verified open-source models with very low or near-zero enterprise licensing fees.
 ##### (iii)  For effective securance of enterprise data and GenAI workflow, we suggest the use of well-known and proven GenAI models for on-prem deployments. The same consideration can be given to  cloud-based deployments and integration.
-
 ---
 > [!IMPORTANT]
-> In this discourse, we have showm a method by which some GenAI models (such as: llama3.2, deepseek-r1 and gemma3 etc) can be installed on-prem using Docker. In our approach, the user may completely use the docker-installed GenAI models online or offline without the Internet. Also, users or the enterprise do not need to pay token or API access charges since the method shown here does not use remote vendor-based APIs such as using OpenAIs ChatGPT UI.  Ollama models' suite UI is used along with Docker to illustrate our method.  OpenWebUI is used to provide a user-friendly UI for the installed GenAI models.
-> Our approach of models' installion on Linux(Ubuntu) and Docker is illustrated via the infographs below:
+> ##### In this discourse, we have showm a method by which some GenAI models (such as: llama3.2, deepseek-r1 and gemma3 etc) can be installed on-prem using Docker. In our approach, the user may completely use the docker-installed GenAI models online or offline without the Internet.
+> ##### Also, users or the enterprise do not need to pay token or API access charges since the method shown here does not use remote vendor-based APIs such as using OpenAIs ChatGPT UI.  Ollama models' suite UI is used along with Docker to illustrate our method.  OpenWebUI is used to provide a user-friendly UI for the installed GenAI models.
+> ##### Our approach of models' installion on Linux(Ubuntu) and Docker is illustrated via the infographs below:
 
 
 
