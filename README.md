@@ -96,7 +96,7 @@ ollama run llama3.2:latest
 Step 5: Test-run the installed llama3.2 model
 ---
 
-The query used to test the installed llama3.2 model is: "WHat are some interesting facts about the Benin Kingdom?"
+The query used to test the installed llama3.2 model is: "What are some interesting facts about the Benin Kingdom?"
 
 ![Image](https://github.com/user-attachments/assets/9b99ba31-71cf-41b0-a106-de30b07bea5c)
 ---
