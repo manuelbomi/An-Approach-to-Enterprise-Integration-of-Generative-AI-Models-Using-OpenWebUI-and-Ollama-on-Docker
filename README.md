@@ -174,17 +174,18 @@ Step 10: Navigate to the page at which OpenWebUI is runing on your device. Confi
 Use gemma3 to write some (Python) code. It can write codes in other langages as well. 
 ---
 
-Code Query: Write a Python program taht will list all the numbers that are a multiple of 5 and 7 in the range 700 to 2100
+Code Query: Write a Python program that will list all the numbers that are a multiple of 5 and 7 in the range 700 to 2100
 
 ---
 ![Image](https://github.com/user-attachments/assets/66c60695-5610-4bef-9241-a71396248793)
 ---
 ![Image](https://github.com/user-attachments/assets/c21c9e3d-d558-4f76-b154-b87581829a58)
 ---
+Users can decide to compare the codes generaated by two different models using OpenWebUI. For ecxample, the code outputs of both gemma3 and llama3.2 could be compared. 
+---
 ![Image](https://github.com/user-attachments/assets/e268fba1-ca7c-4215-84bb-043752206171)
 ---
-![Image](https://github.com/user-attachments/assets/cd020526-aeb7-4773-8e2d-60b2927d831d)
----
+
 
 
 
