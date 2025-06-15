@@ -46,7 +46,7 @@ Heavy investment in a particular vendor's models can lead to being locked-in, ma
 > ### In our approach, the user may use the docker-installed GenAI models online or offline without the Internet.
 > ### Also, users or the enterprise do not need to pay token or API access charges since the method shown here does not use remote vendor-based API access points such as using OpenAIs ChatGPT UI.
 > ### In our example shown here, Ollama models' suite UI is used along with Docker to illustrate our method.  OpenWebUI is used to provide a user-friendly UI for the installed GenAI models.
-> ### In our approach here, widely known models with low memory footprint and low GPU (or none-GPU) usage are considered.
+> ### In our approach here, widely known models with low memory footprint and low GPU (or non-GPU) usage are considered.
 > ### We show how the installed models performed with generic queries and coding tasks. Outputs of the models under basic querying could be obtained as attachments from this repository.
 > ### Outputs of the models' coding tasks can also be obtained from some of the inforgraphs below.
 > ### We did not advocate for the usage of one model over the other in this discourse since usage requirements and/or needs could vary with different enterprise settings or requirements.
