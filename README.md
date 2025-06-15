@@ -169,6 +169,11 @@ to see the list of all containers available on your Docker
 ---
 Step 10: Navigate to the page at which OpenWebUI is runing on your device. Configure the Admin details and login to OpenWebUI
 ---
+Use gemma3 to write some (Python) code. It can write codes in other langages as well. 
+---
+Code Query: Write a Python program taht will list all the numbers that are a multiple of 5 and 7 in the range 700 to 2100
+
+---
 ![Image](https://github.com/user-attachments/assets/7b3d6198-2901-4a88-afb0-e13eb9b5fa62)
 ---
 ![Image](https://github.com/user-attachments/assets/66c60695-5610-4bef-9241-a71396248793)
