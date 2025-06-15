@@ -3,12 +3,12 @@
 In enterprise settings, costs associated with using generative AI (GenAI) models can scale up with the number of people and processes that are using the models across the enterprise. Some of the cost associated with using GenAI models in enterprise settings include: 
 
 1. Data Acquisition and Processing Costs: 
-High-quality data is essential as inputs to the models if methods of models performance improvement such as exposing the model to enterprise dataset through Retrieval Augmentation Generation (RAG) are considered. Cost of obtaining high quality data could be prohibitive. Data restrictions in certain sectors like healthcare or finance can further increase costs. 
-2. Hardware Requirements: If models are acquired to be used on-prem, and if methods of models performance improvement such as exposing the model to enterprise dataset through RAG are used, then, the cost of the hardware needed must be considered.  AI needs specialized, expensive hardware like GPUs, which can cost tens of thousands of dollars per unit, and multiple units are often required for enterprise-scale deployments.
+High-quality data is essential as inputs to the model if methods of model's performance improvement such as exposing the model to enterprise dataset through Retrieval Augmentation Generation (RAG) are considered. Cost of obtaining high quality data could be prohibitive. Data restrictions in certain sectors like healthcare or finance can further increase costs. 
+2. Hardware Requirements: If models are acquired to be used on-prem, and if methods of model's performance improvement such as exposing the model to enterprise dataset through RAG are used, then, the cost of the hardware needed must be considered.  AI needs specialized, expensive hardware like GPUs, which can cost tens of thousands of dollars per unit, and multiple units are often required for enterprise-scale deployments.
 3. Labor Costs: Skilled AI professionals command high salaries, and the limited supply of such talent drives up wages.
-4. Integration and Testing: Reliably integrating GenAI models into existing workflows and testing/optimizing systems is complex and resource-intensive, potentially taking months and adding costs.
+4. Integration and Testing: Reliably integrating GenAI models into existing workflows and testing/optimizing systems could be complex and resource-intensive, potentially taking months and adding costs.
 5. Operating Costs: If models are acquired and intgerated with cloud-based or on-prem workflows, then, operational expenses must be considered. AI systems require significant computing power, leading to high ongoing operational expenses.
-6. Using Remote Vendor based APIs: If the enterprise approaches using GenAI models via the bulk purchase of access tokens and the use of vendor based APIs such as using OpenAI's ChatGPT, then the cost of the access tokens may scale up exponetially with daily usage of different APIs or models across the enterprise. An idea of the cost implication (in USD) is given on the graph below.
+6. Using Remote Vendor based APIs: If the enterprise approaches using GenAI models via the bulk purchase of access tokens and the use of vendor based APIs such as remotely accessing OpenAI's ChatGPT, then the cost of the access tokens may scale up exponetially with daily usage of different APIs or models across the enterprise. An idea of the GenAI models' usage cost implication (in USD) is given on the graph below.
 
 ---
 ![Image](https://github.com/user-attachments/assets/afad8906-5c29-4945-863f-a0fab73a9a6a)
@@ -17,7 +17,7 @@ _Source: https://tomtunguz.com/gm-saas/?utm_source=tldrai_
 ---
 
 7. Model Selection and Licensing: Costs may vary based on the model selection approach, with commercial APIs having usage-based fees and open-source models having lower licensing but may have higher deployment costs.
-8. Vendor Lock-in: Heavy investment in one vendor's models can lead to lock-in, making switching difficult and potentially resulting in higher costs if the vendor increases prices.
+8. Vendor Lock-in: Heavy investment in one vendor's models can lead to lock-in, making switching vendor/model difficult and potentially resulting in higher costs if the vendor increases prices.
    
 
 ---
