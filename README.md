@@ -45,7 +45,7 @@ Heavy investment in a particular vendor's models can lead to being locked-in, ma
 > ### We show how the installed models performed with generic queries and coding tasks. Outputs of the models under basic querying could be obtained as attachments from this repository.
 > ### Outputs of the models' coding tasks can also be obtained from some of the inforgraphs below.
 > ### We did not advocate for the usage of one model over the other in this discourse since usage requirements and/or needs could vary with different enterprise settings or requirements.
-
+---
 > [!IMPORTANT for Enterprise Security]
 > ### Before any model or workflow is deployed in an enterprise setting, it is mandatory that the model or workflow have been thoroughly vetted by enterprise security personnel and tools.
 > It is often better to initially deploy a model or workflow in an enterprise sandbox in order to observe its behaviour vis-a-vis any security flaw(s).
