@@ -46,7 +46,7 @@ Heavy investment in a particular vendor's models can lead to being locked-in, ma
 > ### Outputs of the models' coding tasks can also be obtained from some of the inforgraphs below.
 > ### We did not advocate for the usage of one model over the other in this discourse since usage requirements and/or needs could vary with different enterprise settings or requirements.
 ---
-> [!WARNING]
+> [!CAUTION]
 > ### Before any model or workflow is deployed in an enterprise setting, it is mandatory that the model or workflow have been thoroughly vetted by enterprise security personnel and tools.
 > ### It is often better to initially deploy a model or workflow in an enterprise sandbox in order to observe its behaviour vis-a-vis any security flaw(s).
 > ### The enterprise red team should thoroughly test the model or workflow for any cybersecurity flaw before final deployment.
