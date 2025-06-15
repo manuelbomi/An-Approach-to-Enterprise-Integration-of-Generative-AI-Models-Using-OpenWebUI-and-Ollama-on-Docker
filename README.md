@@ -44,7 +44,7 @@ Heavy investment in a particular vendor's models can lead to being locked-in, ma
 > ### In our approach here, widely known models with low memory footprint and low GPU (or none-GPU) usage are considered.
 > ### We show how the installed models performed with generic queries and coding tasks. Outputs of the models under basic querying could be obtained as attachments from this repository.
 > ### Outputs of the models' coding tasks can also be obtained from some of the inforgraphs below.
-> ### We did not advocate for the usage of one model over the other in this discourse since usage requirements and/or needs could be different for different enterprise settings.
+> ### We did not advocate for the usage of one model over the other in this discourse since usage requirements and/or needs could vary with different enterprise settings or requirements.
 
 #### Our approach of models' installion on Linux(Ubuntu) and Docker is illustrated via the infographs below:
 ---
