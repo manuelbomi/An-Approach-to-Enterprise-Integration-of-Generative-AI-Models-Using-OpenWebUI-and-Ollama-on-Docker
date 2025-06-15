@@ -128,7 +128,15 @@ ollama run gemma3:latest
 ---
 ![Image](https://github.com/user-attachments/assets/a5648c09-cf19-48d8-b01b-9a6f37825816)
 ---
+Test-run the installed model
+---
 ![Image](https://github.com/user-attachments/assets/72b96526-048d-42a1-b15a-fc797548ef3b)
+---
+To see a list of all available models on Ollama, use:
+```ruby
+ollama run list
+```
+---
 ![Image](https://github.com/user-attachments/assets/ad7024ef-5627-48ce-b410-382220bac79c)
 ![Image](https://github.com/user-attachments/assets/4c76ceea-965a-4644-a3c0-be881e813088)
 ![Image](https://github.com/user-attachments/assets/1dc6655b-f8b9-4efe-9f45-e54f773452cf)
