@@ -39,7 +39,7 @@ Navigate to Ollama homepage:
 ---
 ![Image](https://github.com/user-attachments/assets/861f3af3-e7a9-4c2a-add3-f8ff36dd09fe)
 ---
-On Ollama's model page, users can obtain details regarding currently available and Ollama-supported GenAI models. Soem examples are shown on the figures below. More are available on Ollama's homepage.
+On Ollama's model page, users can obtain details regarding currently available and Ollama-supported GenAI models. Some examples are shown on the figures below. More are available on Ollama's homepage.
 
 ---
 ![Image](https://github.com/user-attachments/assets/893d66fb-0078-4b99-8295-08958a4030b3)
