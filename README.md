@@ -33,16 +33,7 @@ _Source: https://tomtunguz.com/gm-saas/?utm_source=tldrai_
 > ##### Also, users or the enterprise do not need to pay token or API access charges since the method shown here does not use remote vendor-based APIs such as using OpenAIs ChatGPT UI.  Ollama models' suite UI is used along with Docker to illustrate our method.  OpenWebUI is used to provide a user-friendly UI for the installed GenAI models.
 
 #### Our approach of models' installion on Linux(Ubuntu) and Docker is illustrated via the infographs below:
-
 ---
-![Image](https://github.com/user-attachments/assets/893d66fb-0078-4b99-8295-08958a4030b3)
-
----
-
-![Image](https://github.com/user-attachments/assets/7b7436e9-6a57-4432-8713-12a77288ba23)
-
----
-
 
 Navigate to Ollama homepage: 
 ---
