@@ -142,15 +142,27 @@ ollama list
 ---
 Step 8: Install OpenWebUI on Docker
 ---
-Open WebUI is an extensible, feature-rich, and user-friendly self-hosted AI platform designed to operate entirely offline. It supports various LLM runners like Ollama and OpenAI-compatible APIs, with built-in inference engine for RAG, making it a powerful AI deployment solution
+OpenWebUI is an extensible, feature-rich, and user-friendly self-hosted AI platform designed to operate entirely offline. It supports various LLM runners like Ollama and OpenAI-compatible APIs, with built-in inference engine for RAG, making it a powerful AI deployment solution
+
+---
+Navigate to the OpenWebUI Github page and copy the code that can be used to install OpenWebUI on Docker. Ensure that Docker is already runing on your Linux system. 
+---
 ![Image](https://github.com/user-attachments/assets/4c76ceea-965a-4644-a3c0-be881e813088)
+---
 ![Image](https://github.com/user-attachments/assets/1dc6655b-f8b9-4efe-9f45-e54f773452cf)
+---
 ![Image](https://github.com/user-attachments/assets/abc7526f-73cc-415a-89d7-9b040f58d950)
+---
 ![Image](https://github.com/user-attachments/assets/7b3d6198-2901-4a88-afb0-e13eb9b5fa62)
+---
 ![Image](https://github.com/user-attachments/assets/66c60695-5610-4bef-9241-a71396248793)
+---
 ![Image](https://github.com/user-attachments/assets/c21c9e3d-d558-4f76-b154-b87581829a58)
+---
 ![Image](https://github.com/user-attachments/assets/e268fba1-ca7c-4215-84bb-043752206171)
+---
 ![Image](https://github.com/user-attachments/assets/cd020526-aeb7-4773-8e2d-60b2927d831d)
+---
 
 
 
