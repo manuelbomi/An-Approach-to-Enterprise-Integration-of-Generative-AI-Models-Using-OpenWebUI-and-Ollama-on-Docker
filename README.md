@@ -42,7 +42,7 @@ Heavy investment in a particular vendor's models can lead to being locked-in, ma
 
 ---
 > [!IMPORTANT]
-> ### In this discourse, we have showm a method by which some GenAI models (such as: llama3.2, deepseek-r1 and gemma3 etc) can be installed <ins>on-prem</ins> using Docker. The same approach could be adopted for <ins>cloud-based</ins> workflow deployments such as when using Linux on an EC2 instance on AWS.
+> ### In this discourse, we have shown a method by which some GenAI models (such as: llama3.2, deepseek-r1 and gemma3 etc) can be installed <ins>on-prem</ins> using Docker. The same approach could be adopted for <ins>cloud-based</ins> workflow deployments such as when using Linux on an EC2 instance on AWS.
 > ### In our approach, the user may use the docker-installed GenAI models online or offline without the Internet.
 > ### Also, users or the enterprise do not need to pay token or API access charges since the method shown here does not use remote vendor-based API access points such as using OpenAIs ChatGPT UI.
 > ### In our example shown here, Ollama models' suite UI is used along with Docker to illustrate our method.  OpenWebUI is used to provide a user-friendly UI for the installed GenAI models.
