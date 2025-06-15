@@ -37,7 +37,7 @@ Heavy investment in a particular vendor's models can lead to being locked-in, ma
 ##### (iv) To prevent vendor lock-in and to reduce enterprise integration cost, we argue that it is better to approach enterprise adoption of diverse open-source models from different vendors. If enterprise model usage must necessarily entail the payment of licensing fees, then the enterprise should consider robust, tested and highly reliable models that have lower licensing fees. 
 ---
 > [!IMPORTANT]
-> ### In this discourse, we have showm a method by which some GenAI models (such as: llama3.2, deepseek-r1 and gemma3 etc) can be installed on-prem using Docker.
+> ### In this discourse, we have showm a method by which some GenAI models (such as: llama3.2, deepseek-r1 and gemma3 etc) can be installed on-prem  <ins>Underlined Heading 4</ins> using Docker.
 > ### In our approach, the user may use the docker-installed GenAI models online or offline without the Internet.
 > ### Also, users or the enterprise do not need to pay token or API access charges since the method shown here does not use remote vendor-based API access points such as using OpenAIs ChatGPT UI.
 > ### In our example shown here, Ollama models' suite UI is used along with Docker to illustrate our method.  OpenWebUI is used to provide a user-friendly UI for the installed GenAI models.
