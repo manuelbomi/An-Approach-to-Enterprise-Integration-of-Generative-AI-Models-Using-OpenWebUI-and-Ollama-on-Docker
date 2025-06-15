@@ -57,13 +57,13 @@ On Ollama's model page, users can obtain details regarding currently available a
 ---
 Select installation method for your target OS. 
 ---
-For Linux, use the command
+For Linux, use the command:
 ---
 
 ```ruby
 curl -fsSL https://ollama.com/install.sh | sh
 ```
-to install Ollama from the command line. Rxample is shown below
+to install Ollama from the command line. Example is shown below
 ---
 ![Image](https://github.com/user-attachments/assets/54374cf7-3e6d-4a3b-951c-40f9f5b6113a)
 
