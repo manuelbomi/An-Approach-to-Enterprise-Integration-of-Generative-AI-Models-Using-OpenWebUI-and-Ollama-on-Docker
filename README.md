@@ -8,15 +8,26 @@ Data restrictions in certain sectors like healthcare or finance can further incr
 2. Hardware Requirements: If models are acquired to be used on-prem, and if methods of models performance improvement such as exposing the model to enterprise dataset through Retrieval Augmentation Generation (RAG) are used, then the cost of the hardware needed must be considered.  AI needs specialized, expensive hardware like GPUs, which can cost tens of thousands of dollars per unit, and multiple units are often required.
 3. Labor Costs: Skilled AI professionals command high salaries, and the limited supply of such talent drives up wages.
 4. Integration and Testing: Reliably integrating Gen AI models into existing workflows and testing/optimizing systems is complex and resource-intensive, potentially taking months and adding costs.
-5. Operating Costs: If models are acquired and intgerated with cloud-based or on-prem workflows, the operational expenses must be considered. AI systems require significant computing power, leading to high ongoing operational expenses, potentially hundreds of thousands of dollars monthly for server and energy costs. This premise can also be cons
-6. Model Selection and Licensing: Costs vary based on the model approach, with commercial APIs having usage-based fees and open-source models having lower licensing but higher deployment costs.
-7. Vendor Lock-in: Heavy investment in one vendor's models can lead to lock-in, making switching difficult and potentially resulting in higher costs if the vendor increases prices.
-8. If the enterprise approaches using Gen AI models by the bulk purchase of access tokens and the use of vendor based APIs such as using OpenAI's ChatGPT, then the cost of the access tokens may scale up exponetially with the daily usage of different APIs or models across the enterprise.
+5. Operating Costs: If models are acquired and intgerated with cloud-based or on-prem workflows, the operational expenses must be considered. AI systems require significant computing power, leading to high ongoing operational expenses, potentially hundreds of thousands of dollars monthly for server and energy costs.
+6. Using Remote Vendor based APIs: If the enterprise approaches using Gen AI models by the bulk purchase of access tokens and the use of vendor based APIs such as using OpenAI's ChatGPT, then the cost of the access tokens may scale up exponetially with the daily usage of different APIs or models across the enterprise. Some
 
 ---
-> [!IMPORTANT]
-## Cost Effective Consideration for Enterprise Generative AI Integration 
-For enterprise integration, based on enterprise applications or needs, we suggest the use of models with minimal intgeration footprints such as using models with minimal memory or GPU requirements. Also, for common, non-specialized applications, We suggest using verified open-source models with very low or zero enterprise licensing fees
+![Image](https://github.com/user-attachments/assets/afad8906-5c29-4945-863f-a0fab73a9a6a)
+
+_Source: https://tomtunguz.com/gm-saas/?utm_source=tldrai_
+---
+
+7. Model Selection and Licensing: Costs vary based on the model approach, with commercial APIs having usage-based fees and open-source models having lower licensing but higher deployment costs.
+8. Vendor Lock-in: Heavy investment in one vendor's models can lead to lock-in, making switching difficult and potentially resulting in higher costs if the vendor increases prices.
+   
+
+---
+> 
+## Cost Effective Consideration for Enterprise Generative AI Models' Integration 
+For enterprise integration, based on enterprise applications or needs, to reduce Gen AI models usage cost we suggest: 
+(i) The use of models with minimal intgeration footprints such as using models with minimal memory or GPU requirements. 
+(ii) For common, non-specialized applications, We suggest using verified open-source models with very low or near-zero enterprise licensing fees
+(iii) For effective securance of enterprise data, we suggest the use of verified and highly secured method of integration if on-prem integration is considered. The same consideration can be given to  
 
 ---
 
