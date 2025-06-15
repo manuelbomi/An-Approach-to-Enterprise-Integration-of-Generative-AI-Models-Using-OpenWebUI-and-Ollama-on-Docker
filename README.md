@@ -34,17 +34,6 @@ _Source: https://tomtunguz.com/gm-saas/?utm_source=tldrai_
 
 #### Our approach of models' installion on Linux(Ubuntu) and Docker is illustrated via the infographs below:
 
-
-
-
-
-
-
-### **OVERVIEW**
-Reliably architecting databases is very crucial for designing efficient data analytics systems. After selecting the software and  
-
-
-
 ---
 ![Image](https://github.com/user-attachments/assets/893d66fb-0078-4b99-8295-08958a4030b3)
 
@@ -54,31 +43,18 @@ Reliably architecting databases is very crucial for designing efficient data ana
 
 ---
 
-### **Benefits of Using Lucidchart for Entity Relationship Diagrams**
-For very complex systems, due to system 
-
-In addition, Lucidchart 
-
----
-
-> [!IMPORTANT]
-After using Lucidchart to 
->
-
----
-In this discourse, we will show (using infographs) how to use Lucidchart to architect an e-commerce database comprising of four tables viz: customers, products, orders and order_details tables.
-
-We shall then show how to use Lucidchart to translate the e-commerce ERD to a database by using Lucidchart to automatically generate SQL codes for MSSQL Server database. 
-
----
-> [!IMPORTANT]
-Here, we have shown the steps needed to efficiently architect an e-commerce database for MSSQL Server database.
->
----
 
 Navigate to Ollama homepage: 
 ---
 ![Image](https://github.com/user-attachments/assets/861f3af3-e7a9-4c2a-add3-f8ff36dd09fe)
+---
+On Ollama's model page, users can obtain details regarding currently available and Ollama-supported GenAI models. Soem examples are shown on the figures below. More are available on Ollama's homepage.
+
+---
+![Image](https://github.com/user-attachments/assets/893d66fb-0078-4b99-8295-08958a4030b3)
+
+
+![Image](https://github.com/user-attachments/assets/7b7436e9-6a57-4432-8713-12a77288ba23)
 
 ---
 Select installation method for your target OS. 
