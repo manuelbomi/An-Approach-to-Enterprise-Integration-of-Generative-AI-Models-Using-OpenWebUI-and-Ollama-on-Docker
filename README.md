@@ -49,7 +49,7 @@ Heavy investment in a particular vendor's models can lead to being locked-in, ma
 > [!CAUTION]
 > ### Before any model or workflow is deployed in an enterprise setting, it is mandatory that the model or workflow should be thoroughly vetted by enterprise security personnel and tools.
 > ### It is often better to initially deploy a model or workflow in an enterprise sandbox in order to observe its behaviour vis-à-vis any security flaw(s).
-> ### The enterprise ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `red team`  $${\color{red}Red \space Team}$$ should thoroughly test the model or workflow for any cybersecurity flaw before final deployment.
+> ### The enterprise $${\color{red}Red \space Team}$$ should thoroughly test the model or workflow for any cybersecurity flaw before final deployment.
 > ### Only GenAI models that have been thoroughly vetted security-wise should be whitelisted and deployed in an enterprise setting.
 ---
 
