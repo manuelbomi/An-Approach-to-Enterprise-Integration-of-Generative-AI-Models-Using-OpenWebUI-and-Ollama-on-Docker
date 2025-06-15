@@ -14,7 +14,7 @@ Data restrictions in certain sectors like healthcare or finance can further incr
 8. If the enterprise approaches using Gen AI models by the bulk purchase of access tokens and the use of vendor based APIs such as using OpenAI's ChatGPT, then the cost of the access tokens may scale up exponetially with the daily usage of different APIs or models across the enterprise.
 
 ---
-
+> [!IMPORTANT]
 ## Cost Effective Consideration for Enterprise Generative AI Integration 
 For enterprise integration, based on enterprise applications or needs, we suggest the use of models with minimal intgeration footprints such as using models with minimal memory or GPU requirements. Also, for common, non-specialized applications, We suggest using verified open-source models with very low or zero enterprise licensing fees
 
