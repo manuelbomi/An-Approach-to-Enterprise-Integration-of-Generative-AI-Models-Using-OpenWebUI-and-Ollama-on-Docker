@@ -5,13 +5,20 @@ Some of the cost associated with using generative AI models in the enterprise se
 1. Data Acquisition and Processing: 
 High-quality data is essential for training effective AI models, and acquiring, cleaning, and labeling this data, especially for specialized industries, can be time-consuming and costly.
 Data restrictions in certain sectors like healthcare or finance can further increase costs. 
-2. Hardware Requirements: AI needs specialized, expensive hardware like GPUs, which can cost tens of thousands of dollars per unit, and multiple units are often required.
-3. Labor Costs: Skilled AI professionals command high salaries, often exceeding $100,000 annually per employee, and the limited supply of such talent drives up wages.
-4. Training and Maintenance: Training AI models is computationally intensive and can cost millions of dollars. Ongoing maintenance, updates, and retraining also contribute to continuous costs.
-5. Integration and Testing: Integrating AI into existing workflows and testing/optimizing systems is complex and resource-intensive, potentially taking months and adding costs.
-6. Operating Costs: AI systems require significant computing power, leading to high ongoing operational expenses, potentially hundreds of thousands of dollars monthly for server and energy costs.
-7. Model Selection and Licensing: Costs vary based on the model approach, with commercial APIs having usage-based fees and open-source models having lower licensing but higher deployment costs.
-8. Vendor Lock-in: Heavy investment in one vendor's models can lead to lock-in, making switching difficult and potentially resulting in higher costs if the vendor increases prices. 
+2. Hardware Requirements: If models are acquired to be used on-prem, and if methods of models performance improvement such as exposing the model to enterprise dataset through Retrieval Augmentation Generation (RAG) are used, then the cost of the hardware needed must be considered.  AI needs specialized, expensive hardware like GPUs, which can cost tens of thousands of dollars per unit, and multiple units are often required.
+3. Labor Costs: Skilled AI professionals command high salaries, and the limited supply of such talent drives up wages.
+4. Integration and Testing: Reliably integrating Gen AI models into existing workflows and testing/optimizing systems is complex and resource-intensive, potentially taking months and adding costs.
+5. Operating Costs: If models are acquired and intgerated with cloud-based or on-prem workflows, the operational expenses must be considered. AI systems require significant computing power, leading to high ongoing operational expenses, potentially hundreds of thousands of dollars monthly for server and energy costs. This premise can also be cons
+6. Model Selection and Licensing: Costs vary based on the model approach, with commercial APIs having usage-based fees and open-source models having lower licensing but higher deployment costs.
+7. Vendor Lock-in: Heavy investment in one vendor's models can lead to lock-in, making switching difficult and potentially resulting in higher costs if the vendor increases prices.
+8. If the enterprise approaches using Gen AI models by the bulk purchase of access tokens and the use of vendor based APIs such as using OpenAI's ChatGPT, then the cost of the access tokens may scale up exponetially with the daily usage of different APIs or models across the enterprise.
+
+---
+
+## Cost Effective Consideration for Enterprise Generative AI Integration 
+For enterprise integration, based on enterprise applications or needs, we suggest the use of models with minimal intgeration footprints such as using models with minimal memory or GPU requirements. Also, for common, non-specialized applications, We suggest using verified open-source models with very low or zero enterprise licensing fees
+
+---
 
 
 
