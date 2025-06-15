@@ -85,7 +85,7 @@ Note that Ollama can work with the target device's CPU if GPU is not detected on
 
 ![Image](https://github.com/user-attachments/assets/f572f483-9536-4506-ab48-9b0a6ee67593)
 ---
-Use the installed ollama to download and install your desired model. For example, to install llama3.2, use the command:
+Step 4: Use the installed ollama to download and install your desired model. For example, to install llama3.2, use the command:
 ---
 ```ruby
 ollama run llama3.2:latest
