@@ -7,7 +7,7 @@ High-quality data is essential as inputs to the model if methods of model's perf
 
 Cost of obtaining high quality data could be prohibitive. Data restrictions in certain sectors like healthcare, non-civil technologies and finance can further increase costs. 
 ### Hardware Requirements: 
-If models are acquired to be used on-prem, and if methods of model's performance improvement methods (such as exposing the model to enterprise dataset through RAG) are used, then, the cost of the hardware needed must be considered.
+If models are acquired to be used on-prem, and if methods of model's performance improvement (such as exposing the model to enterprise dataset through RAG) are used, then, the cost of the hardware needed must be considered.
 
 Most enterprise AI applications often needs specialized, expensive hardware like GPUs, which can cost tens of thousands of dollars per unit, and multiple units are often required for enterprise-scale deployments.
 ### Labor Costs: 
