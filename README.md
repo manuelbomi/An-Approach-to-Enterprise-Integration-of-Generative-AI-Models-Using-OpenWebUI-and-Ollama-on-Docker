@@ -37,7 +37,7 @@ Heavy investment in a particular vendor's models can lead to being locked-in, ma
 ### To reduce cost of GenAI model integration and to promote wider GenAI adoption and models' diversity in enterprise settings, we suggest: 
 ##### (i)    The use of models with minimal intgeration footprints such as using models with minimal memory or GPU requirements. 
 ##### (ii)   For common, non-specialized applications, We suggest using verified open-source models with very low or near-zero enterprise licensing fees.
-##### (iii)  For effective securance of enterprise data and GenAI workflow, we suggest the use of well-known and proven GenAI models for on-prem deployments. The same consideration can be given to  cloud-based deployments and integration.
+##### (iii)  For effective securance of enterprise data and GenAI workflow, we suggest the use of only well-known and proven GenAI models for on-prem deployments. The same consideration can be given to  cloud-based deployments.
 ##### (iv) To prevent vendor lock-in and to reduce enterprise integration cost, we argue that it is better to consider enterprise adoption of diverse open-source models from different vendors. If enterprise model usage must necessarily entail the payment of licensing fees, then the enterprise should consider only robust, tested, highly reliable, and possibly multi-functional models that have lower licensing fees. 
 
 ---
