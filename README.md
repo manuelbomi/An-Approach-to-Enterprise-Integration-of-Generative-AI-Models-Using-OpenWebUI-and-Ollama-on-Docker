@@ -17,7 +17,7 @@ Reliably integrating GenAI models into existing workflows and testing/optimizing
 ### Operating Costs: 
 If models are acquired and intgerated with cloud-based or on-prem workflows, then, operational expenses must be considered. AI systems require significant computing power, leading to high ongoing operational expenses.
 ### Using Remote Vendor based APIs: 
-If the enterprise approaches using GenAI models via the bulk purchase of access tokens; and the use of vendor based APIs such as remotely accessing OpenAI's ChatGPT, then the cost of the access tokens may scale up exponetially with daily usage of different APIs or models across the enterprise. An idea of the GenAI models' usage cost implication (in USD) is given on the graph below.
+If the enterprise approaches using GenAI models via the bulk purchase of access tokens which are used to access vendor's Gen-AI endpoints such as OpenAI's ChatGPT, then the cost of the access tokens may scale up exponetially with daily usage of different APIs or models across the enterprise. An idea of the GenAI models' usage cost implication (in USD) is given on the graph below.
 
 ---
 ![Image](https://github.com/user-attachments/assets/afad8906-5c29-4945-863f-a0fab73a9a6a)
