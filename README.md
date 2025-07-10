@@ -1,6 +1,6 @@
 # **An Approach to Enterprise Integration of Generative-AI Models Using OpenWebUI and Ollama on Docker**
 
-In enterprise settings, costs associated with using generative AI (GenAI) models can scale up with the number of people and processes that are using the models across the enterprise. Some of the cost associated with using GenAI models in enterprise settings include: 
+In enterprise settings, costs associated with using generative AI (GenAI) models can scale up with the number of people and processes that are using the models across the enterprise. Some of the cost associated with using GenAI models in enterprise settings include:
 
 ### Data Acquisition and Processing Costs:
 High-quality data is essential as inputs to the model if methods of model's performance improvement (such as exposing the model to enterprise dataset through Retrieval Augmentation Generation (RAG)) are considered. 
